@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$bg-color-1: #FF4356;
+$bg-color-2: #DD1326;
+
+#header_wrap {
+    background: $bg-color-1;
+    background: -moz-linear-gradient(top, $bg-color-1, $bg-color-2);
+    background: -webkit-linear-gradient(top, $bg-color-1, $bg-color-2);
+    background: -ms-linear-gradient(top, $bg-color-1, $bg-color-2);
+    background: -o-linear-gradient(top, $bg-color-1, $bg-color-2);
+    background: linear-gradient(to top, $bg-color-1, $bg-color-2);
+  }

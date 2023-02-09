@@ -52,17 +52,15 @@ Prepare an **email**. In it:
 
 Send it to [kuan@hey.com](mailto:kuan@hey.com). I will get back to you very quickly. Please expect a couple of email exchanges before we start the first project. 
 
-# About Else Studio
+* * *
 
-## Why?
+# About Else Studio
 
 I have been working as a solo freelancer and solo tech founder for four years plus. Thanks to my sole client, itbh, I managed to enjoy a flexible lifestyle and a respectable earning to keep wife and I afloat in the lovely Sabah, my homeland. I don't mind continuing this way, but I have this little nudge in me that, asking me to work in a team.  
 
 Recently (or early 2023 if this post got old), an opportunity knocks on my door. It is a mobile app rewrite project that require multiple me, working full time. At the same time, I still have an ongoing project, which I am committed to see it through. Workload overflows, and funding overflows. Time to grow!
 
 I am now expanding my team of one, and forming a software house by the name Else Studio.
-
-# What?
 
 Else studio develops mobile/web/desktop applications. Currently, we specialized in frontend development, using Flutter as the main tools. All these while, I worked with external backend developer to achieve the common goal, deliver the full application. Else Studio will continue this specialization.
 
