@@ -1,11 +1,11 @@
 
-# Work with Else Studio
+# You're a frontend developer? Come work with Else Studio.
 
 ## Why?
 
 **Freedom.**
 
-You will start with a **project-based or a task-based payment**. As soon as the work is done and goal is met, we conclude the project and you get the pay. Then we decide what to do next. There will be a delivery date which we both agreed before the starting of the project, which is usually just a rough estimate. Just keep me posted with progress every work day, even it is a small step. Maybe we will do a one-hour face to face meeting for the project conclusion. Maybe we will do a one-hour pair programming every other week. Maybe.
+You will start with a **project-based or a task-based payment**. As soon as the work is done and goal is met, we conclude the project and you get the payyou get the pay, then we proceed to the next project. There will be a delivery date which we both agreed before the starting of the project, which is usually just a rough estimate. Just keep me posted with progress every work day, even it is a small step. Maybe we will do a one-hour face to face meeting for the project conclusion. Maybe we will do a one-hour pair programming every other week. Maybe.
 
 And that is it.
 
@@ -19,7 +19,9 @@ Ultimately, most of the pay are calculated by hourly basis. For the current open
 
 ## What is the work? 
 
-We are a software house specialized in **frontend**. **Flutter** is the tool of choice, to build mobile applications, web applications, and potentially desktop applications. The aim is to deliver a slick, neat and robust GUI, efficiently. As a starter, you will be mostly work on **building Flutter Widgets, composing widgets to form a page, writing Widget tests and passing them.**
+We are a software house specialized in **frontend development**. **Flutter** is the primary tool of choice, to build mobile applications, web applications, and potentially desktop applications. Secondary tools is **Svelte** for web only project. The aim is to deliver a slick, neat and robust GUI, efficiently. 
+
+As a starter, you will be mostly work on **building Flutter Widgets, composing widgets to form a page, writing Widget tests and passing them.** Main challenges will be task like ensuring consistent styling, handle loading or missing data, disabling button, form validation, transition animation, accessibility, etc. 
 
 We will practice most of Effective Dart. Strictly follow the discipline of logic vs presentation. Stateless first, stateful later. Asynchronous is our way of life. Always keep our Widget and integration tests populous and up to date. Test, test and test.
 
