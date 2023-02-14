@@ -5,7 +5,7 @@
 
 **Freedom.**
 
-You will start with a **project-based or a task-based payment**. As soon as the work is done and goal is met, we conclude the project and you get the payyou get the pay, then we proceed to the next project. There will be a delivery date which we both agreed before the starting of the project, which is usually just a rough estimate. Just keep me posted with progress every work day, even it is a small step. Maybe we will do a one-hour face to face meeting for the project conclusion. Maybe we will do a one-hour pair programming every other week. Maybe.
+You will start with a **project-based or a task-based payment**. As soon as the work is done and goal is met, we conclude the project, and you get the pay, then we proceed to the next project. There will be a delivery date which we both agreed before the starting of the project, which is usually just a rough estimate. Just keep me posted with progress every work day, even it is a small step. Maybe we will do a one-hour face to face meeting for the project conclusion. Maybe we will do a one-hour pair programming every other week. Maybe.
 
 And that is it.
 
