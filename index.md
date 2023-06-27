@@ -14,7 +14,7 @@ Deliver, on time and on point. We will build a reputable dev team together.
 
 ## How much?
 
-Ultimately, most of the pay is calculated on hourly basis. For the current opening, we will **start at RM 50/hour**. As mentioned, the first few payouts will be project based. I will estimate the hours required for the task to price each project. The completion of these projects will let us learn about our chemistry, shortcomings, progress speed and the adjusted hourly rate for you.
+Ultimately, most of the pay is calculated on hourly basis. For the current opening, we will aim for a **RM 50/hour**. As mentioned, the first few payouts will be project based. I will estimate the hours required for the task to price each project. The completion of these projects will let us learn about our chemistry, shortcomings, progress speed and the adjusted hourly rate for you.
 
 ## What is the work?
 
