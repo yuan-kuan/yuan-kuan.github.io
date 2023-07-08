@@ -14,13 +14,13 @@ Deliver, on time and on point. We will build a reputable dev team together.
 
 ## How much?
 
-Ultimately, most of the pay is calculated on hourly basis. For the current opening, we will aim for a **RM 50/hour**. As mentioned, the first few payouts will be project based. I will estimate the hours required for the task to price each project. The completion of these projects will let us learn about our chemistry, shortcomings, progress speed and the adjusted hourly rate for you.
+Ultimately, most of the pay is calculated on hourly basis. For the current opening, you can expect a roughy **RM 50/hour** payout, depends on your speed and accuracy. As mentioned, the first few payouts will be project based. I will estimate the hours required for the task to price each project. The completion of these projects will let us learn about our chemistry, shortcomings, progress speed and the adjusted hourly rate for you.
 
 ## What is the work?
 
-We are a software house specialising in **frontend development**. **Flutter** is the primary tool of choice, to build mobile applications, web applications, and potentially desktop applications. The secondary tool is **Svelte** for web-only projects. The aim is to deliver a slick, neat and robust GUI, efficiently.
+We are a software house specialising in **frontend development**. **Flutter** is the primary tool of choice, to build mobile applications, web applications, and potentially desktop applications.
 
-**However, this current opening requires knowledge of ReactJS and a bit of NextJS**. Your primary job will be assisting me in maintaining an existing web app, I think you can guess their tech stack already. When you have spare hours for the team, you can join the other projects which would be using Flutter.
+**However, this current opening preferred someone knows how to navigate a ReactJS Web Application**. Your primary job will be assisting me in maintaining an existing web app, I think you can guess their tech stack already. When you have spare hours for the team, you can join the other projects which would be using Flutter.
 
 We will practice most of Effective Dart. Strictly follow the discipline of logic vs presentation. Stateless first, stateful later. Asynchronous is our way of life. Always keep our Widget and integration tests populous and up to date. Test, test and test.
 
@@ -38,7 +38,7 @@ Except for the very rare occasion that you might interact with the client's back
 
 ## When can you start?
 
-**June or July**. That's when the web maintenance job starts rolling.
+**Anytime**.
 
 ## How to apply?
 
