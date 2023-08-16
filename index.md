@@ -1,10 +1,10 @@
-# You're a frontend developer? Come work with Else Studio.
+# You're a front-end developer? Come work with Else Studio.
 
 ## Why?
 
 **Freedom.**
 
-You will start with a **project-based or a task-based payment**. As soon as the work is done and the goal is met, we conclude the project, and you get the pay, then we proceed to the next project. There will be a delivery date which we both agreed on before the start of the project, which is usually just a rough estimate. Just keep me posted with progress every work day, even if it is a small step. Maybe we will do a one-hour face-to-face meeting for the project conclusion. Maybe we will do a one-hour pair programming every other week. Maybe.
+You will start with a **project-based or task-based payment**. As soon as the work is done and the goal is met, we conclude the project, and you get the pay, then we proceed to the next project.  Just keep me posted with progress every work day, even if it is a small step. Maybe we will do a one-hour face-to-face meeting for the project conclusion. Maybe we will do a one-hour pair programming every other week. Maybe.
 
 And that is it.
 
@@ -14,13 +14,21 @@ Deliver, on time and on point. We will build a reputable dev team together.
 
 ## How much?
 
-Ultimately, most of the pay is calculated on hourly basis. For the current opening, you can expect a roughy **RM 50/hour** payout, depends on your speed and accuracy. As mentioned, the first few payouts will be project based. I will estimate the hours required for the task to price each project. The completion of these projects will let us learn about our chemistry, shortcomings, progress speed and the adjusted hourly rate for you.
+Ultimately, most of the pay is calculated on an hourly basis. For the current opening, you can expect a roughy **RM 50/hour** payout, depending on your speed and accuracy. As mentioned, the first few payouts will be project based. I will estimate the hours required for the task to price each project. The heuristic I used in my estimation is how many hours I assumed myself to complete the same project/task, then I multiply by my hourly rate. So, in essence, you will be paid for the hours you took off from me.
+
+Completing these projects will let us learn about our chemistry, shortcomings, progress speed and the adjusted hourly rate for you.
 
 ## What is the work?
 
 We are a software house specialising in **frontend development**. **Flutter** is the primary tool of choice, to build mobile applications, web applications, and potentially desktop applications.
 
-**However, this current opening preferred someone knows how to navigate a ReactJS Web Application**. Your primary job will be assisting me in maintaining an existing web app, I think you can guess their tech stack already. When you have spare hours for the team, you can join the other projects which would be using Flutter.
+Here are a few recent tasks, that fall under the scope of this job, the team have done:
+
+- Take over a semi-complete Login and On-boarding feature, with the Controller/State/Flow implemented and unit-tested, and create the View(Flutter Widgets) by listening to these state changes (via Stream).
+- For each step in the Login and On-boarding feature, create the Material Flutter Widget according to the Figma mock-up UI.
+- Without relying on third-party packages, create a custom Widget. e.g. phone number input with country flag, Unique collage of photos, animated carousel indicator, OTP fields, etc.
+- Refactor the codes to become more readable, and create sharable Widgets/Functions after a handful of duplications of codes.
+- Look at the bug report, navigate the codes and fix the bug.
 
 We will practice most of Effective Dart. Strictly follow the discipline of logic vs presentation. Stateless first, stateful later. Asynchronous is our way of life. Always keep our Widget and integration tests populous and up to date. Test, test and test.
 
@@ -47,9 +55,9 @@ Prepare an **email**. In it:
 1.  Tell me who you are.
 2.  How is your working style and how would you adapt to the style I mentioned above?
 3.  Do you like any of these? Why and why not?
-4.  A link to your GitHub or GitLab or any public (or private) repositories that contain your frontend projects and/or contributions.
+4.  A link to your GitHub or GitLab or any public (or private) repositories that contain your front-end projects and/or contributions.
 
-**Number 4 is crucial**. **Git and the ability to build an app** is our requirements to work here. If you need time to push or create a project, you can ping me with an email first and send me the links when you're done. Exposing your projects is a good thing to do, even you end up not wanting this job.
+**Number 4 is crucial**. **Git and the ability to build an app** are our requirements to work here. If you need time to push or create a project, you can ping me with an email first and send me the links when you're done. Exposing your projects is a good thing to do, even if you end up not wanting this job.
 
 Send it to [kuan@hey.com](mailto:kuan@hey.com). I will get back to you very quickly. Please expect a couple of email exchanges before we start the first project.
 
@@ -57,26 +65,26 @@ Send it to [kuan@hey.com](mailto:kuan@hey.com). I will get back to you very quic
 
 # About Else Studio
 
-I have been working as a solo freelancer and solo tech founder for four years plus. Thanks to my sole client, itbh, I managed to enjoy a flexible lifestyle and a respectable earning to keep wife and I afloat in the lovely Sabah, my homeland. I don't mind continuing this way, but I have this little nudge in me that, asking me to work in a team.
+I have been working as a solo freelancer and solo tech founder for four years plus. Thanks to my sole client, itbh, I managed to enjoy a flexible lifestyle and a respectable earning to keep wife and me afloat in the lovely Sabah, my homeland. I don't mind continuing this way, but I have this little nudge in me that, asks me to work in a team.
 
-Recently (or early 2023 if this post got old), an opportunity knocks on my door. It is a mobile app rewrite project that require multiple me, working full time. At the same time, I still have an ongoing project, which I am committed to see it through. Workload overflows, and funding overflows. Time to grow!
+Recently (or early 2023 if this post got old), an opportunity knocks on my door. It is a mobile app rewrite project that requires multiple me, working full time. At the same time, I still have an ongoing project, which I am committed to see it through. Workload overflows, and funding overflows. Time to grow!
 
 I am now expanding my team of one, and forming a software house by the name Else Studio.
 
-Else studio develops mobile/web/desktop applications. Currently, we specialized in frontend development, using Flutter as the main tools. All these while, I worked with external backend developer to achieve the common goal, deliver the full application. Else Studio will continue this specialization.
+Else studio develops mobile/web/desktop applications. Currently, we specialized in frontend development, using Flutter as the main tool. All this while, I worked with an external backend developer to achieve the common goal, deliver the full application. Else Studio will continue this specialization.
 
-There are no backend capabilities yet. This shall be fixed as we grow, and achieve full stack eventually. If you are here looking for full-stack, try us. Maybe it is time already.
+There are no backend capabilities yet. This shall be fixed as we grow, and achieve full stack eventually. If you are here looking for a full-stack, try us. Maybe it is time already.
 
 # Who am I?
 
-I, as the lead developer of Else Studio, have nothing much to show as a track record. The two ongoing projects are, well, ongoing. I cannot disclose nor display them here, yet. Here's what I did in terms of web and mobile application, from the most recent:
+I, as the lead developer of Else Studio, have nothing much to show as a track record. The two ongoing projects are, well, ongoing. I cannot disclose nor display them here, yet. Here's what I did in terms of web and mobile applications, from the most recent:
 
 1.  [CariTenant](https://caritenant.my): SvelteKit.
-2.  itbh Console (private) : A Dart programming language framework that generate Flutter project with routing, Stream-powered services and components.
+2.  itbh Console (private): A Dart programming language framework that generates Flutter projects with routing, Stream-powered services and components.
 3.  [B4 the date](https://b4the.date) : Svelte + PouchDB/CoucbDB + Cloudflare workers and pages.
 4.  [TaraKita](https://github.com/yuan-kuan/tarakita-app) : Svelte + PouchDB + Cloudflare.
-5.  [fp-svelte](https://github.com/yuan-kuan/fp-tailwindcss-svelte-template) : Svelte starter template with a functional programming twist. Used by the two projects above.
-6.  ANA (private) : Offline first web application to support heavy industry asset management in the field. AngularDart + PouchDB/CouchDB.
+5.  [fp-svelte](https://github.com/yuan-kuan/fp-tailwindcss-svelte-template): Svelte starter template with a functional programming twist. Used by the two projects above.
+6.  ANA (private): Offline first web application to support heavy industry asset management in the field. AngularDart + PouchDB/CouchDB.
 7.  [dorker](https://github.com/yuan-kuan/dorker) : Web worker for AngularDart.
 
 Before I built these web applications as a solo freelancer, I was a game developer. Worked in Unity and Ubisoft Singapore.
