@@ -1,3 +1,38 @@
+# We are looking for a mobile app QA.
+
+Here is the deal. I will give you a date, at least 5 days before, that there will be a new build for testing. You might have other jobs to do in between, for us, for others or for yourself, doesn't matter. What matters is you keep the promise to free yourself enough on the date we agreed on to do a smoke test on the new build (a mobile app). Determine if the app still working as intended, how many regressions, are the fixes successful, is the new feature running as intended, etc. Generate a simple report, and tell the team if is it a go or no-go. If it is a go, everyone is happy, ship the app. Otherwise, you will be paid extra to stay on-call for a potentially same-day fix from the team.
+
+Above is the main function that you need to perform as the QA for the team. But this is just one task out of many that I can offer you here. I wouldn't say others are less important, just they are less time-sensitive and can be completed at your own pace and timing. They are, in no specific order:
+
+1. Perform a full regression test on production build every 2 weeks.
+2. Generate good issues from your tests.
+3. Sync with the development timeline and start early on build verification.
+4. Investigate externally reported issues. Discard bogus, mark duplicate, or convert to real issue.
+5. Issue management: Cleanup, find duplicates, prioritise.
+6. Write new test cases for new and legitimate issues on existing features.
+7. Write new test cases for upcoming features. Understanding the requirement from the client (and poke holes in it).
+8. Maintain the existing test cases to prevent stagnation. 
+9. Verify fixes and remove the issue Card, or raise a 'fail to fix'.
+
+This is not a full-time job. More like a task-based QA job. The only time restriction this job carries is the pre-booked smoke test on new a build, as I described at the start. Other tasks are to be completed by you when you have the time to work. You can work from anywhere, too.
+
+When we start, I will create a task with expected hours to complete it. For example, our current app takes at most 2 hours for a functional smoke test on a new build aimed for release. Adding in a simple report and probably creating a few issues during the same test, the time cost for this task is something around 3 hours. Another example is the full-regression test, I don't have an idea, but based on our current testing effort, the app might take around 5 hours. 
+
+"Paperwork" tasks are harder to estimate. My idea is to estimate the hours spent based on the issue reported, issue improvement (provide better information and repro steps from the external report), test case writing/maintaining, and fix verifications. Or if we trust each other enough, you can suggest the hours you have spent on these. This will be a learning process.
+
+If you know what you are doing, and are good at it, I am willing to pay a RM 20 hourly rate.
+If you are starting out, and willing to learn the trade together with us, we can start at RM 15 hourly rate. Once you prove yourself, we can adjust the rate to a better one.
+
+If you are still interested at this point. Write back to me. My email is kuan@hey.com.
+In your message, emphasize these points:
+
+1. About yourself.
+2. What do you like about this job?
+3. Which mobile device(s) you have and will use to perform the test?
+4. Do you have a computer for work?
+
+* * *
+
 # You're a front-end developer? Come work with Else Studio.
 
 ## Why?
