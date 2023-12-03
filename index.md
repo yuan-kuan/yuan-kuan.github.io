@@ -1,39 +1,4 @@
-# We are looking for a mobile app QA.
-
-Here is the deal. I will give you a date, at least 5 days before, that there will be a new build for testing. You might have other jobs to do in between, for us, for others or for yourself, doesn't matter. What matters is you keep the promise to free yourself enough on the date we agreed on to do a smoke test on the new build (a mobile app). Determine if the app still working as intended, how many regressions, are the fixes successful, is the new feature running as intended, etc. Generate a simple report, and tell the team if is it a go or no-go. If it is a go, everyone is happy, ship the app. Otherwise, you will be paid extra to stay on-call for a potentially same-day fix from the team.
-
-Above is the main function that you need to perform as the QA for the team. But this is just one task out of many that I can offer you here. I wouldn't say others are less important, just they are less time-sensitive and can be completed at your own pace and timing. They are, in no specific order:
-
-1. Perform a full regression test on production build every 2 weeks.
-2. Generate good issues from your tests.
-3. Sync with the development timeline and start early on build verification.
-4. Investigate externally reported issues. Discard bogus, mark duplicate, or convert to real issue.
-5. Issue management: Cleanup, find duplicates, prioritise.
-6. Write new test cases for new and legitimate issues on existing features.
-7. Write new test cases for upcoming features. Understanding the requirement from the client (and poke holes in it).
-8. Maintain the existing test cases to prevent stagnation. 
-9. Verify fixes and remove the issue Card, or raise a 'fail to fix'.
-
-This is not a full-time job. More like a task-based QA job. The only time restriction this job carries is the pre-booked smoke test on new a build, as I described at the start. Other tasks are to be completed by you when you have the time to work. You can work from anywhere, too.
-
-When we start, I will create a task with expected hours to complete it. For example, our current app takes at most 2 hours for a functional smoke test on a new build aimed for release. Adding in a simple report and probably creating a few issues during the same test, the time cost for this task is something around 3 hours. Another example is the full-regression test, I don't have an idea, but based on our current testing effort, the app might take around 5 hours. 
-
-"Paperwork" tasks are harder to estimate. My idea is to estimate the hours spent based on the issue reported, issue improvement (provide better information and repro steps from the external report), test case writing/maintaining, and fix verifications. Or if we trust each other enough, you can suggest the hours you have spent on these. This will be a learning process.
-
-If you know what you are doing, and are good at it, I am willing to pay a RM 20 hourly rate.
-If you are starting out, and willing to learn the trade together with us, we can start at RM 15 hourly rate. Once you prove yourself, we can adjust the rate to a better one.
-
-If you are still interested at this point. Write back to me. My email is kuan@hey.com.
-In your message, emphasize these points:
-
-1. About yourself.
-2. What do you like about this job?
-3. Which mobile device(s) you have and will use to perform the test?
-4. Do you have a computer for work?
-
-* * *
-
-# You're a front-end developer? Come work with Else Studio.
+# You're a web/app/frontend/backend/any developer? Come work with Else Studio.
 
 ## Why?
 
@@ -55,13 +20,14 @@ Completing these projects will let us learn about our chemistry, shortcomings, p
 
 ## What is the work?
 
-We are a software house specialising in **frontend development**. **Flutter** is the primary tool of choice, to build mobile applications, web applications, and potentially desktop applications.
+We are a software house specialising in **frontend development**, slowly moving into **fullstack**. **Flutter** is the primary tool of choice, to build mobile applications, web applications, and potentially desktop applications. We have not fully work on a **fullstack** project yet, but we are slowly taking up **Java** backend job. **ReactJS** is used in maintaining a few client's on-going web applications. 
 
 Here are a few recent tasks, that fall under the scope of this job, the team have done:
 
-- Take over a semi-complete Login and On-boarding feature, with the Controller/State/Flow implemented and unit-tested, and create the View(Flutter Widgets) by listening to these state changes (via Stream).
-- For each step in the Login and On-boarding feature, create the Material Flutter Widget according to the Figma mock-up UI.
+- Understand the client's requirements posted in our Basecamp project. Ask questions to flush out the details. Implement the feature step by step. From scratch to complete.
+- Follow the flow of the app states, listen to the changes and send out Firebase analytics event base on different condition.
 - Without relying on third-party packages, create a custom Widget. e.g. phone number input with country flag, Unique collage of photos, animated carousel indicator, OTP fields, etc.
+- Follow the instruction of client's designer, perform fine grain GUI polish and perform Flutter magic to match Figma mock up. Don't worry, not pixel perfect.
 - Refactor the codes to become more readable, and create sharable Widgets/Functions after a handful of duplications of codes.
 - Look at the bug report, navigate the codes and fix the bug.
 
@@ -73,11 +39,11 @@ My current clients are either very good backend developer or already has a stabl
 
 ## Who is in it together?
 
-If you end up joining, the team size will be 4.
+If you end up joining, the team size will be 5.
 
-A handful of front-end engineers should make a beefy team for a good size application. My plan is to get a dedicated QA to do test planning and manual testing during development. As soon as we manage to sign a bigger project that includes UX&UI scope, I will invite a dedicated UX UI designer to the team.
+A handful of software engineers with one or two QAs should make a beefy team for a good size application. As soon as we manage to sign a bigger project that includes UX&UI scope, I will invite a dedicated UX UI designer to the team.
 
-Except for the very rare occasion that you might interact with the client's backend programmer or designer (Which should be my job to communicate with the client), you will be working with less than 5 people, for a long while.
+Except for the rare occasion that you might interact with the client's backend programmer or designer, you will be working with less than 5 people, for a long while.
 
 ## When can you start?
 
