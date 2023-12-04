@@ -66,7 +66,7 @@ Send it to [kuan@hey.com](mailto:kuan@hey.com). I will get back to you very quic
 
 # About Else Studio
 
-5th October 2023, Else Studio helped our first client, SpeedHome, to launch their third-time-rewrite of their mobile application SpeedHome: [Android](), [iOS](). This is Else Studio's first project and it is a big collective work done by the team for 6 months.
+5th October 2023, Else Studio helped our first client, SpeedHome, to launch their third-time-rewrite of their mobile application SpeedHome: [Android](https://play.google.com/store/apps/details/?id=com.speedrent&amp;hl=en), [iOS](https://apps.apple.com/my/app/speedhome-my-property-rental/id998232868). This is Else Studio's first project and it is a big collective work done by the team for 6 months.
 
 The work didn't stop there. For the next two months after launch, we dished out a ton of features, bug fixes and GUI polishes. Not only the users were served with a prettier, smoother and more solid stable mobile app. They are experiencing waves of quick bug fixes and GUI improvement at an unprecedented speed.
 
@@ -100,7 +100,7 @@ I am now expanding my team of one, and forming a software house by the name Else
 
 I have nothing much to show as a track record. Here's what I did in terms of web and mobile applications, from the most recent:
 
-1.  [SpeedHome](): Frontned only. Flutter, Andoird and iOS. Teamwork with Else Studio.
+1.  [SpeedHome](https://apps.apple.com/my/app/speedhome-my-property-rental/id998232868): Frontned only. Flutter, Andoird and iOS. Teamwork with Else Studio.
 2.  [Noehmer](https://app.cn.at): Frontned only. Flutter Web with itbh-console. It has three parts: public for ordering new broadband service, customer self-service and sales for internal use.
 3.  [CariTenant](https://caritenant.my): SvelteKit.
 4.  itbh Console (private): A Dart programming language framework that generates Flutter projects with routing, Stream-powered services and components.
