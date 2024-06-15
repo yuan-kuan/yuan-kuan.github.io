@@ -1,3 +1,7 @@
+---
+title: Dev job
+---
+
 # You're a web/app/frontend/backend/any developer? Come work with Else Studio.
 
 ## Why?

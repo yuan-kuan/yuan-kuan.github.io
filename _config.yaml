@@ -6,6 +6,6 @@ navigation:
   - title: Home
     url: /
   - title: Developer Job
-    url: /dev/
+    url: /dev
   - title: QA Job
-    url: /qa/
+    url: /qa
