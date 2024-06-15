@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 title: Else Studio
 description: Balance. Freedom. Pay.
+
+navigation:
+  - title: Home
+    url: /
+  - title: Developer Job
+    url: /dev/
+  - title: QA Job
+    url: /qa/
