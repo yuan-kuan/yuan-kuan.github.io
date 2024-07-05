@@ -24,16 +24,17 @@ Completing these projects will let us learn about our chemistry, shortcomings, p
 
 ## What is the work?
 
-We are a software house specialising in **frontend development**, slowly moving into **full-stack**. **Flutter** is the primary tool of choice, to build mobile applications, web applications, and potentially desktop applications. We have not fully worked on a **full-stack** project yet, but we are slowly taking up **Java** backend job. **ReactJS** is used in maintaining a few clients' ongoing web applications. 
+We are a software house specialising in **frontend development**, slowly moving into **full-stack**. **Flutter** is the primary tool of choice, to build mobile applications, web applications, and potentially desktop applications. We just started a **full-stack** project with one of our client, using **Java** **Quarkus** for the backend job. **ReactJS** is used in maintaining a few clients' ongoing web applications. 
 
 Here are a few recently completed tasks, that fall under the scope of this job:
 
 - Understand the client's requirements posted in our Basecamp project. Ask questions to flush out the details. Implement the feature step by step. From scratch to complete.
-- Follow the flow of the app states, listen to the changes and send out Firebase analytics events based on different conditions.
 - Without relying on third-party packages, create a custom Widget. e.g. phone number input with country flag, Unique collage of photos, animated carousel indicator, OTP fields, etc.
-- Follow the instructions of the client's designer, perform fine-grain GUI polish and perform Flutter magic to match the Figma mock-up. Don't worry, not pixel-perfect.
 - Refactor the codes to become more readable, and create sharable Widgets/Functions after a handful of duplications of codes.
 - Look at the bug report, navigate the codes and fix the bug.
+- Build a tag cloud input, a multiple image picker with cover photo and deletion support, Barcode scanner, etc. For an open source Dart Framework.
+- Deploy Android app via Firebase with Fastlane. Write custom script to automate pushing code from our GitHub into Client's Bitbucket.
+- Surgically replace HelloSign and ZohoSign in a 3 years old outdated ReactJS application.
 
 We will practice most of Effective Dart. Strictly follow the discipline of logic vs presentation. Stateless first, stateful later. Asynchronous is our way of life. Always keep our Widget and integration tests populous and up to date. Test, test and test.
 
@@ -43,7 +44,7 @@ My current clients are either very good backend developer or already has a stabl
 
 ## Who is in it together?
 
-If you end up joining, the team size will be 5.
+If you end up joining, the team size will be 6.
 
 A handful of software engineers with one or two QAs should make a beefy team for a good-sized application. As soon as we manage to sign a bigger project that includes UX&UI scope, I will invite a dedicated UX UI designer to the team.
 
@@ -59,7 +60,7 @@ Prepare an **email**. In it:
 
 1.  Tell me who you are.
 2.  Tell me about one of the software you built during your early programming days, no matter how small or insignificant.
-3.  Do you like any of these? Why and why not?
+3.  Do you like any of these? The job, your early project, life as programmer? Why and why not?
 4.  A link to your GitHub or GitLab or any public (or private) repositories that contain your projects and/or contributions.
 
 **Number 4 is crucial**. **Git and the ability to build an app** are our requirements to work here. If you need time to push or create a project, you can ping me with an email first and send me the links when you're done. Exposing your projects is a good thing to do, even if you end up not wanting this job.
