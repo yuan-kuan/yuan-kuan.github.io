@@ -18,7 +18,7 @@ These options aren't meant to be rigid. We can swap them around if the situation
 
 # Pay
 
-We'll start with RM15 per hour for manual testing and RM20 per hour for paperwork (test case generation/modification, bug report enhancement, etc.). You'll track the hours and bill me at the end of each month. I'm anticipating a 3:1 ratio of manual work to paperwork.
+We'll start with RM15 per hour for manual testing and RM20 per hour for paperwork (test case generation/modification, bug report enhancement, etc.). You'll track the hours and bill me at the end of each month. I'm anticipating a 2:1 ratio of manual work to paperwork.
 
 # Work
 
@@ -38,7 +38,7 @@ The upside is asynchronous communication happening at everyone's convenience. Yo
 
 # Team
 
-We're still a pretty small software team. You'll be our second QA. Our current QA is experienced, so the workload can be shared or backed up, but all testing work will be solo. We can discuss challenges or fill in for each other, but each job is expected to be done by one person from start to finish.
+We're still a pretty small software team. You'll be our only QA when you join. But I have plan to improve our QA capacity, might even get two.
 
 # When Can You Start?
 
